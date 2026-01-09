@@ -233,12 +233,11 @@ This syllabus and course outline are subject to change in the discretion of the 
 
 ## Important dates
 
-- **Aug 19**: Add/Drop Begins
-- **Aug 26**: Classes Begin
-- **Sep 3**: Add/Drop Ends
-- **Sep 2**: Labor Day Holiday	
-- **Sep 13**:  Last Day Opt Pass/Fail
-- **Oct 4-5**: Fall Break
-- **Nov 7**: Last Day to Withdraw With a W
-- **Nov 25-29**: Thanksgiving Recess
-- **Dec 13-19**: Final Exam
+- **Jan 9**: Add/Drop Begins
+- **Jan 14**: Classes Begin
+- **Jan 19**: MLK Holiday
+- **Jan 22**: Add/Drop Ends
+- **Mar 7-15**: Spring Break
+- **Mar 26**: Last Day UG Course Withdrawal
+- **May 4-5**: Reading Days
+- **May 6-12**: Final Exam
