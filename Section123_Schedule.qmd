@@ -1,0 +1,26 @@
+---
+title: "Tu/Th_Schedule"
+
+jupyter: python3
+---
+
+
+```{python}
+#| label: tbl-a
+#| tbl-cap: Spring26 Section 1&2&3 Class Schedule
+#| echo: false
+
+from IPython.display import Markdown
+from tabulate import tabulate
+import pandas as pd 
+
+with open('Section123_Schedule.csv', 'rb') as f:
+    tb = pd.read_csv(f, keep_default_na=False)
+
+
+Markdown(tabulate(
+    tb, 
+    tb.head(),
+    tablefmt="grid"
+))
+```

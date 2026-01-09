@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "M/W_Schedule"
 
 jupyter: python3
 ---
@@ -7,14 +7,14 @@ jupyter: python3
 
 ```{python}
 #| label: tbl-a
-#| tbl-cap: Fall24 Class Schedule
+#| tbl-cap: Spring26 Section 4 Class Schedule
 #| echo: false
 
 from IPython.display import Markdown
 from tabulate import tabulate
 import pandas as pd 
 
-with open('Fall25_Schedule.csv', 'rb') as f:
+with open('Section4_Schedule.csv', 'rb') as f:
     tb = pd.read_csv(f, keep_default_na=False)
 
 

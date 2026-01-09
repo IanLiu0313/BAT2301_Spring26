@@ -1,5 +1,5 @@
 ---
-title: "BAT/ECON 2401 – Statistics for Business and Economics Syllabus"
+title: "BAT/ECON 2301(or 2401) – Statistics for Business and Economics Syllabus"
 ---
 
 ## Course Overview
@@ -12,15 +12,16 @@ Welcome to BAT/ECON 2401, an introductory course on statistics and probability t
 
 | Session # | Location | Time                   |
 |---------|----------|------------------------|
-| Session 3 | Richardson Center 319  | T/Th 12:45 PM - 2:00 PM |
-| Session 4 | Richardson Center 319  | T/Th 2:10 PM - 3:25 PM  |
-
+| Session 1 | Dicke 347  | T/Th 12:45 PM - 2:00 PM |
+| Session 2 | Dicke 347  | T/Th 2:10 PM - 3:25 PM  |
+| Session 3 | Dicke 347  | T/Th 3:35 PM - 4:50 PM |
+| Session 4 | CSI - 437  | M/W 1:05 PM - 2:20 PM  |
 
 ## Teaching Team 
 
-| Name        |  Email | Phone | Office Hours   | Office Location    | Zoom |
+| Name        |  Email | Phone | Zoom Office Hours   | Office Location    | Zoom |
 |-------------|--------|-------|----------------|-------------|------|
-| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon(in-person) & Fri(online)  3PM-4PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/97421905426)    |
 
 
 ## DataCamp Learning
@@ -28,5 +29,4 @@ Welcome to BAT/ECON 2401, an introductory course on statistics and probability t
 
 | DataCamp                 | Join The Class   | Location    |
 |----------------------|----------------|-------------|------|
-| [https://datacamp.com](https://datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/9c0820d5af03090d41b43c7448d71d5cac9c852738fe60e727d2fb63bf90f6f9)   | It's a Virtual Classroom |
-
+| [https://datacamp.com](https://datacamp.com)              | [Click Here to Join](https://www.datacamp.com/groups/shared_links/54f633dd6d3a522300263caf0e109f62a380f38d30e3b73ec52d14506d37e248)   | It's a Virtual Classroom |

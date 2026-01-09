@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://ianliu0313.github.io/BAT2301_Fall24/
+        href: https://ianliu0313.github.io/BAT2301_Spring26/
         text: Home Site
       - icon: house-fill
         href: https://canvas.trinity.edu/
@@ -22,8 +22,10 @@ website:
         text: Home
       - href: syllabus.qmd
         text: Syllabus
-      - href: schedule.qmd
-        text: Schedule
+      - href: Section123_Schedule.qmd
+        text: TuTh - Section123_Schedule
+      - href: Section4_Schedule.qmd
+        text: MW - Section4_Schedule
         
 format:
   html:
