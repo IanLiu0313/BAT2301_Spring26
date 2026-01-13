@@ -1,27 +1,28 @@
 ---
-title: "BAT/ECON 2301(or 2401) – Statistics for Business and Economics Syllabus"
+title: "BAT/ECON 2301 – Statistics for Business and Economics Syllabus"
 ---
 
 ## Course Overview
 
 **Course Description**
 
-Welcome to BAT/ECON 2401, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via [datacamp.com](https://datacamp.com), which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.
+Welcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via [datacamp.com](https://datacamp.com), which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.
 
 ## Class Meetings and Locations
 
-| Session # | Location | Time                   |
+| Section # | Location | Time                   |
 |---------|----------|------------------------|
-| Session 1 | Dicke 347  | T/Th 12:45 PM - 2:00 PM |
-| Session 2 | Dicke 347  | T/Th 2:10 PM - 3:25 PM  |
-| Session 3 | Dicke 347  | T/Th 3:35 PM - 4:50 PM |
-| Session 4 | CSI - 437  | M/W 1:05 PM - 2:20 PM  |
+| Section 1 | Dicke Smith Art Music 347  | T/Th 12:45 PM - 2:00 PM |
+| Section 2 | Dicke Smith Art Music 347  | T/Th 2:10 PM - 3:25 PM  |
+| Section 3 | Dicke Smith Art Music 347  | T/Th 3:35 PM - 4:50 PM |
+| Section 4 | CSI - 437  | M/W 1:05 PM - 2:20 PM  |
 
 ## Teaching Team 
 
 | Name        |  Email | Phone | Zoom Office Hours   | Office Location    | Zoom |
 |-------------|--------|-------|----------------|-------------|------|
-| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon(in-person) & Fri(online)  3PM-4PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/97421905426)    |
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon(in-person) & Fri(online)  3PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/97421905426)    |
+| An AI Assistant | 24/7 |  [(Ready Soon-Stay Tuned)](Nothing)    |
 
 
 ## DataCamp Learning
@@ -30,3 +31,12 @@ Welcome to BAT/ECON 2401, an introductory course on statistics and probability t
 | DataCamp                 | Join The Class   | Location    |
 |----------------------|----------------|-------------|------|
 | [https://datacamp.com](https://datacamp.com)              | [Click Here to Join](https://www.datacamp.com/groups/shared_links/54f633dd6d3a522300263caf0e109f62a380f38d30e3b73ec52d14506d37e248)   | It's a Virtual Classroom |
+
+Complete the following mini online courses On Datacamp by May 10, 2026 00:00 CDT:
+
+1. Introduction to Python
+2. Introduction to Statistics in Python
+3. Foundations of Probability in Python
+4. Hypothesis Testing in Python
+5. Practicing Statistics Interview Questions in Python
+6. Introduction to AI Agents

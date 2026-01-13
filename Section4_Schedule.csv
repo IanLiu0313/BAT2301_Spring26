@@ -1,34 +1,34 @@
-﻿Week #,Class Date,Topics,Attendance
-Week_1,"Wednesday, January 14, 2026","Course Introduction, Syllabus",Submit Your Notes
-Week_1,"Monday, January 19, 2026",Probability and Statistics Applications and Examples,N/A
-Week_2,"Wednesday, January 21, 2026","Descriptive Statistics: Data Types and Meanings, Measures of Association",Submit Your Notes
-Week_2,"Monday, January 26, 2026","Descriptive Statistics: Measures of Location, Distribution Shape, Outliers",Submit Your Notes
-Week_3,"Wednesday, January 28, 2026","Descriptive Statistics: Measures of Variability, Measures of Association Between Two Variables",Submit Your Notes
-Week_3,"Monday, February 2, 2026","Introduction to Probability: Counting Rules, Randomness",Submit Your Notes
-Week_4,"Wednesday, February 4, 2026","Introduction to Probability: Multiplication Law, Addition Law",Submit Your Notes
-Week_4,"Monday, February 9, 2026",Introduction to Probability: Independent and Mutually Exclusive Events,Submit Your Notes
-Week_5,"Wednesday, February 11, 2026",Introduction to Probability: Bayes' Theorem,Submit Your Notes
-Week_5,"Monday, February 16, 2026",Introduction to Probability Lab,Submit Your Notes
-Week_6,"Wednesday, February 18, 2026",Exam 1 Review,Exam 1 Review
-Week_6,"Monday, February 23, 2026",Exam 1,Exam 1
-Week_7,"Wednesday, February 25, 2026","Discrete Probability: Variance, Covariance and Finance",Submit Your Notes
-Week_7,"Monday, March 2, 2026",Discrete Probability: Discrete Distributions,Submit Your Notes
-Week_8,"Wednesday, March 4, 2026",Discrete Probability: Discrete Distributions Lab,Submit Your Notes
-Week_8,"Monday, March 9, 2026",Spring Break - Have Fun!,Submit Your Notes
-Week_9,"Wednesday, March 11, 2026",Spring Break - Have Fun!,Submit Your Notes
-Week_9,"Monday, March 16, 2026",Continuous Probability: Uniform Distribution,Submit Your Notes
-Week_10,"Wednesday, March 18, 2026",Continuous Probability: Normal Distributions,Submit Your Notes
-Week_10,"Monday, March 23, 2026",Continuous Probability: Continuous Distributions Lab,Submit Your Notes
-Week_11,"Wednesday, March 25, 2026",Exam 2 Review,Exam 2 Review 
-Week_11,"Monday, March 30, 2026",Exam 2,Exam 2
-Week_12,"Wednesday, April 1, 2026","Sampling and Sampling Distributions: Sampling Methods, Point Estimate",Submit Your Notes
-Week_12,"Monday, April 6, 2026","Interval Estimation: Population Mean, Sample Size and Proportion",Submit Your Notes
-Week_13,"Wednesday, April 8, 2026",Interval Estimation: Confidence Intervals,Submit Your Notes
-Week_13,"Monday, April 13, 2026",Hypothesis Test: Null and Alternative Hypotheses and Error Types,Submit Your Notes
-Week_14,"Wednesday, April 15, 2026",Hypothesis Test: Null and Alternative Hypotheses and Error Types,N/A
-Week_14,"Monday, April 20, 2026",Hypothesis Testing Lab,N/A
-Week_15,"Wednesday, April 22, 2026",Simple Linear Regression,Submit Your Notes
-Week_15,"Monday, April 27, 2026",Using Python for Linear Regression and Any Statistics Calculations,Submit Your Notes
-Week_16,"Wednesday, April 29, 2026",Final Exam Review,Exam 3 Review
-Week_16,"Monday, May 4, 2026",Reading  Days - No Class - Office Hours Available,Reading Day
-Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.(Tentative)",Final Exam Location TBA,Final Exam
+﻿Week #,Class Date,Topics,Attendance,Problem Set
+Week_1,"Wednesday, January 14, 2026","Course Introduction, Syllabus",N/A,
+Week_2,"Monday, January 19, 2026",Probability and Statistics Applications and Examples,N/A,
+Week_2,"Wednesday, January 21, 2026","Descriptive Statistics: Data Types and Meanings, Measures of Association",Submit Your Notes,PS_1
+Week_3,"Monday, January 26, 2026","Descriptive Statistics: Measures of Location, Distribution Shape, Outliers",Submit Your Notes,
+Week_3,"Wednesday, January 28, 2026","Descriptive Statistics: Measures of Variability, Measures of Association Between Two Variables",Submit Your Notes,PS_2
+Week_4,"Monday, February 2, 2026","Introduction to Probability: Counting Rules, Randomness",Submit Your Notes,
+Week_4,"Wednesday, February 4, 2026","Introduction to Probability: Multiplication Law, Addition Law",Submit Your Notes,PS_3
+Week_5,"Monday, February 9, 2026",Introduction to Probability: Bayes' Theorem,Submit Your Notes,
+Week_5,"Wednesday, February 11, 2026",Introduction to Probability Lab,Submit Your Notes,PS_4
+Week_6,"Monday, February 16, 2026","Discrete Probability: Variance, Covariance and Finance",Submit Your Notes,
+Week_6,"Wednesday, February 18, 2026",Discrete Probability: Discrete Distributions,Submit Your Notes,PS_5
+Week_7,"Monday, February 23, 2026",Discrete Probability: Discrete Distributions Lab,Submit Your Notes,PS_6
+Week_7,"Wednesday, February 25, 2026",Exam 1 Review,N/A,
+Week_8,"Monday, March 2, 2026",Exam 1,N/A,
+Week_8,"Wednesday, March 4, 2026",Continuous Probability: Uniform Distribution,Submit Your Notes,PS_7
+Week_9,"Monday, March 9, 2026",Spring Break - Have Fun!,Submit Your Notes,
+Week_9,"Wednesday, March 11, 2026",Spring Break - Have Fun!,Submit Your Notes,
+Week_10,"Monday, March 16, 2026",Continuous Probability: Normal Distributions,Submit Your Notes,PS_8
+Week_10,"Wednesday, March 18, 2026",Continuous Probability: Continuous Distributions Lab,Submit Your Notes,PS_9
+Week_11,"Monday, March 23, 2026","Sampling and Sampling Distributions: Sampling Methods, Point Estimate",Submit Your Notes,PS_10
+Week_11,"Wednesday, March 25, 2026",Exam 2 Review,N/A,
+Week_12,"Monday, March 30, 2026",Exam 2,N/A,
+Week_12,"Wednesday, April 1, 2026","Interval Estimation: Population Mean, Sample Size and Proportion",Submit Your Notes,PS_11
+Week_13,"Monday, April 6, 2026",Interval Estimation: Confidence Intervals,Submit Your Notes,PS_12
+Week_13,"Wednesday, April 8, 2026",Hypothesis Test: Null and Alternative Hypotheses and Error Types,Submit Your Notes,PS_13
+Week_14,"Monday, April 13, 2026",Hypothesis Test: Null and Alternative Hypotheses and Error Types,Submit Your Notes,PS_14
+Week_14,"Wednesday, April 15, 2026",Hypothesis Testing Lab,Submit Your Notes,
+Week_15,"Monday, April 20, 2026",Simple Linear Regression,Submit Your Notes,PS_15
+Week_15,"Wednesday, April 22, 2026",Using Python for Linear Regression and Any Statistics Calculations,Submit Your Notes,
+Week_16,"Monday, April 27, 2026",DataCamp Q&A,N/A,
+Week_16,"Wednesday, April 29, 2026",Final Exam Review,N/A,
+Week_17,"Monday, May 4, 2026",Reading  Days - No Class - Office Hours Available,N/A,
+Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.(Tentative)",Final Exam Location TBA,N/A,
