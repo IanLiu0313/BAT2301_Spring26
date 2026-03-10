@@ -16,6 +16,9 @@ website:
       - icon: house-fill
         href: https://canvas.trinity.edu/
         text: Canvas Trinity University
+      - icon: robot
+        href: https://bat2301aibot-exlkbrznuphadey5imogzu.streamlit.app/
+        text: SmartA** TA
     style: docked
     contents:
       - href: index.qmd
@@ -25,8 +28,7 @@ website:
       - href: Section123_Schedule.qmd
         text: TuTh - Section123_Schedule
       - href: Section4_Schedule.qmd
-        text: MW - Section4_Schedule
-        
+        text: MW - Section4_Schedule        
 format:
   html:
     theme: cosmo

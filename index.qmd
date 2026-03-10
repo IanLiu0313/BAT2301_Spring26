@@ -22,7 +22,7 @@ Welcome to BAT/ECON 2301, an introductory course on statistics and probability t
 | Name        |  Email | Phone | Zoom Office Hours   | Office Location    | Zoom |
 |-------------|--------|-------|----------------|-------------|------|
 | Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon(in-person) & Fri(online)  3PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/97421905426)    |
-| An AI Assistant | 24/7 |  [(Ready Soon-Stay Tuned)](Nothing)    |
+| An AI Assistant | 24/7 |  [TA_Bot](https://bat2301aibot-exlkbrznuphadey5imogzu.streamlit.app/)    |
 
 
 ## DataCamp Learning
