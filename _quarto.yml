@@ -10,10 +10,10 @@ website:
     pinned: true
     align: center
     tools:
-      - icon: github
+      - icon: house-fill
         href: https://ianliu0313.github.io/BAT2301_Spring26/
         text: Home Site
-      - icon: house-fill
+      - icon: pencil
         href: https://canvas.trinity.edu/
         text: Canvas Trinity University
       - icon: robot
